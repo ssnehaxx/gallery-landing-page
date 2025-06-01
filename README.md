@@ -17,7 +17,7 @@ The **AUCSE.in Gallery Landing Page** is designed to showcase the highlights, ac
 - **HTML5** & **CSS3** – for structure and styling.
 - **JavaScript** – for dynamic functionality and user interaction.
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 Follow these steps to run the project locally:
 
